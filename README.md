@@ -30,6 +30,8 @@ STEP-8: Repeat the above steps to generate the entire cipher text.
 
 
 ## PROGRAM
+## Developed By : HARISHKUMAR R
+## Register No  : 212223230073
 ```c
 #include <stdio.h>
 #include <string.h>
